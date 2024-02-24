@@ -5,4 +5,4 @@
 * Tailwind CSS
 
 ### Tooling
-* Figma
+* Figma 
